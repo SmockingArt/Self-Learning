@@ -24,6 +24,8 @@ __Book : 3 --> 4h45__
 
 __Time : 3676 *minutes*__
 
+---
+
 - [x] Vulgarisation de l'informatique quantique *82minutes*
 	
 - [x] Design Thinking *58minutes* - Découverte, concept et exemples
