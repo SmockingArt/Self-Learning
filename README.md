@@ -1,10 +1,12 @@
 # Self-Learning
 Today, I am delighted to share with you my exciting and enriching journey of self-learning in the field of technology.
 
-# ENI Bibliothèque Numérique
+# ENI Eni Digital Library
 
 Video Training : 27 --> *58h30*
 Book : 3 --> 4h45
+
+Time : 3676 *minutes*
 
 - [x] Vulgarisation de l'informatique quantique *82minutes*
 	
