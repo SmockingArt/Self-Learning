@@ -2,17 +2,17 @@
 
 ***
 
-Source : [[ENI]]
-Auteur/Projets : [[ENI Bibliothèque Numérique]] - [[Formation]] -  [[Programmation]]
+Source : ENI
+
+Projets : ENI Bibliothèque Numérique - Self-Learning
+
 Tags : #Code #Programmation #Formation 
 
 ✍ fais par : @Smockingart
 
 🧭 Date : 2023-05-22
 
-
-
-Today, I am delighted to share with you my exciting and enriching journey of self-learning in the field of technology.
+_**Today, I am delighted to share with you my exciting and enriching journey of self-learning in the field of technology.**_
 
 ***
 
