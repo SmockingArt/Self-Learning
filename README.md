@@ -16,7 +16,7 @@ _**Today, I am delighted to share with you my exciting and enriching journey of 
 
 ***
 
-# ENI Eni Digital Library
+# ENI Digital Library
 
 __Video Training : 27 --> *58h30*__
 
