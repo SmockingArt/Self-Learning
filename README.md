@@ -3,10 +3,10 @@ Today, I am delighted to share with you my exciting and enriching journey of sel
 
 # ENI Eni Digital Library
 
-Video Training : 27 --> *58h30*
-Book : 3 --> 4h45
-
-Time : 3676 *minutes*
+> Video Training : 27 --> *58h30*
+> Book : 3 --> 4h45
+>
+> Time : 3676 *minutes*
 
 - [x] Vulgarisation de l'informatique quantique *82minutes*
 	
