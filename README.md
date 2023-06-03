@@ -110,10 +110,10 @@ __Video Training : 25 --> *25h00*__
 
 __Time : 1500 *minutes*__
 
---- 
-
 - [X] 96% = 194/200
 - [X]  Diplôme obtenue F : 20 H 
+
+--- 
 
 - [X] Panorama de la SSI
 - [X] Sécurité de l'authentification
