@@ -1,10 +1,10 @@
 # Self-Learning
 
-***
+---
 
 Source : ENI
 
-Projets : ENI Bibliothèque Numérique - Self-Learning
+Projets : ENI Bibliothèque Numérique - ANSSI - Self-Learning
 
 Tags : #Code #Programmation #Formation 
 
@@ -12,9 +12,9 @@ Tags : #Code #Programmation #Formation
 
 🧭 Date : 2023-05-22
 
-_**Today, I am delighted to share with you my exciting and enriching journey of self-learning in the field of technology.**_
+_**Today, I am delighted to share with you my exciting and enriching journey of self-learning in the field of technology. (from oldest to newest)**_
 
-***
+---
 
 # ENI Digital Library
 
@@ -86,7 +86,7 @@ __Time : 3676 *minutes*__
 	
 - [x] Kanban pour l'IT *34minutes*  - Fluidifiez la coordination de votre projet
 	
-- [ ] Scrum - Les concepts essentiels de la méthode agile
+- [X] Scrum - Les concepts essentiels de la méthode agile
 	
 - [x] Tableau de bord *45minutes* - Pilotez vos informations pour optimiser la prise de décision
 	
@@ -101,3 +101,23 @@ __Time : 3676 *minutes*__
 - [ ] Blockchain, NFT et Métaverse *540minutes* - Démythification, usages et potentiels
 	
 - [x] Git  *119minutes*-  La gestion des versions de vos projets
+
+---
+
+# MOOC ANSSI 
+
+__Video Training : 25 --> *25h00*__
+
+__Time : 1500 *minutes*__
+
+--- 
+
+- [?] 96% = 194/200
+- [?]  Diplôme obtenue F : 20 H 
+
+- [X] Panorama de la SSI
+- [X] Sécurité de l'authentification
+- [X] Sécurité sur Internet
+- [X] Sécurité du poste de travail et nomadisme
+
+---
