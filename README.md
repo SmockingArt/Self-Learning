@@ -112,8 +112,8 @@ __Time : 1500 *minutes*__
 
 --- 
 
-- [?] 96% = 194/200
-- [?]  Diplôme obtenue F : 20 H 
+- [X] 96% = 194/200
+- [X]  Diplôme obtenue F : 20 H 
 
 - [X] Panorama de la SSI
 - [X] Sécurité de l'authentification
