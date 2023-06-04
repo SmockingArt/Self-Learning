@@ -18,11 +18,7 @@ _**Today, I am delighted to share with you my exciting and enriching journey of 
 
 # ENI Digital Library
 
-__Video Training : 27 --> *58h30*__
-
-__Book : 3 --> 4h45__
-
-__Time : 3676 *minutes*__
+__Time : 4276 *minutes*__
 
 ---
 
@@ -97,9 +93,7 @@ __Time : 3676 *minutes*__
 - [x] La transformation numérique de l'entreprise *45minutes* - De l'entreprise 1.0 à l'entreprise 4.0 (Pas Utiles)
 	
 - [ ] Linux - Administrez votre poste en ligne de commandes
-	
-- [ ] Blockchain, NFT et Métaverse *540minutes* - Démythification, usages et potentiels
-	
+		
 - [x] Git  *119minutes*-  La gestion des versions de vos projets
 
 ---
