@@ -25,9 +25,7 @@ __Time : 4276 *minutes*__
 - [x] Vulgarisation de l'informatique quantique *82minutes*
 	
 - [x] Design Thinking *58minutes* - Découverte, concept et exemples
-	
-- [x] ChatGPT *210minutes*- Qui es tu ?
-	
+		
 - [x] Comprendre les réseaux de neurones artificiels  *151minutes* - Concepts et exemples
 	
 - [x] Blockchain *90minutes* - Découverte, concept et exemples
